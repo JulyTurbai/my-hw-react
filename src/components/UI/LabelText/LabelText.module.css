@@ -1,0 +1,10 @@
+.name {
+    width: 300px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    color: rgb(66, 66, 116);
+}

@@ -1,0 +1,6 @@
+.area {
+    border: 2px solid rgb(252, 238, 117);
+}
+.area:focus {
+    border: 2px solid rgb(252, 238, 117);
+}

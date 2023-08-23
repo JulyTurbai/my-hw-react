@@ -1,0 +1,8 @@
+.name {
+    height: 25px;
+    border: 2px solid rgb(38, 38, 82);
+}
+.name:focus {
+   background-color: rgb(218, 236, 253);
+   font-weight: bold;
+}

@@ -1,0 +1,8 @@
+.email {
+    height: 25px;
+    border: 2px solid rgb(247, 162, 83);
+}
+.email:focus {
+    background-color: rgb(245, 206, 161);
+    font-weight: bold;
+}

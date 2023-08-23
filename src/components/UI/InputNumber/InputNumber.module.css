@@ -1,0 +1,9 @@
+.number {
+    height: 25px;
+    border: 2px solid rgb(40, 99, 40);
+}
+
+.number:focus {
+    background-color: rgb(189, 224, 171);
+    font-weight: bold;
+ }
